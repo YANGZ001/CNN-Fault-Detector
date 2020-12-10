@@ -1,0 +1,2 @@
+# CNN-Fault-Detector
+In my graduation thesis project, I built a convolutional neural network (CNN) with genetic algorithm for chemical process fault classification. My supervisor guided me and I finished all the coding and paper work. All the coding was written in Python. NumPy library was used to construct data samples into pictures. CNN models were built using TensorFlow and Keras library. Result visualization was done using seaborn and matplotlib library.
